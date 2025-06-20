@@ -21,6 +21,3 @@ This repository contains my project submission for the Dibimbing.ID Data Series 
 🧠 Linear Regression Model Training
 📊 Evaluation using MSE, RMSE, and R²
 ☁️ Integrated with Google Cloud for model experimentation
-
-**🙌 Acknowledgment**
-Thanks to Dibimbing.ID and mentors for the guidance and opportunity to deepen my machine learning skills through this assignment.
