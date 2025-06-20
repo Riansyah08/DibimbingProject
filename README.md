@@ -1,7 +1,6 @@
 # **🎓 Student Scores Prediction – Dibimbing.ID Data Series 14.0**
 This repository contains my project submission for the Dibimbing.ID Data Series 14.0 program.  
-The task focuses on applying Machine Learning in AI to predict student scores based on study hours — a classic regression problem.  
-The entire process, from data exploration to model deployment using Google Cloud, is documented in a Jupyter Notebook.
+The task focuses on applying Machine Learning in AI to predict student scores based on study hours — a classic regression problem. The entire process, from data exploration to model deployment using Google Cloud, is documented in a Jupyter Notebook.
 <br>
 
 ### **📁 Project Overview**
