@@ -14,7 +14,7 @@ The task focuses on applying **Machine Learning in AI** to **predict student sco
 **1. Download the dataset**  
   Grab the dataset student_scores.csv and place it in the same directory as the notebook.  
 **2. Open the Notebook**  
-  Launch student_score_regression.ipynb in Jupyter or Google Colab.  
+  Launch AIML_Assignment.ipynb in Jupyter or Google Colab.  
 **3. Run All Cells**  
   The notebook is fully documented and ready to run. Follow each section to understand the ML process.
 <br>
