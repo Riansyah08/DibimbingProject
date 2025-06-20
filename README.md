@@ -7,7 +7,7 @@ The entire process, from data exploration to model deployment using Google Cloud
 **📊 Problem:** Predict student scores from their study hours.  
 **🤖 Solution:** Build and train a simple regression model.  
 **☁️ Platform:** Leveraged Google Cloud for scalable and efficient model training.  
-**🛠️ Tools:** Python, Pandas, Scikit-Learn, Matplotlib, Google Colab, seaborn  
+**🛠️ Tools:** Python, Pandas, Scikit-Learn, Matplotlib, Google Colab, Seaborn  
   
 ### **📌 How to Use**
 **1. Download the dataset**  
