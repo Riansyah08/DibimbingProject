@@ -23,5 +23,5 @@ The task focuses on applying **Machine Learning in AI** to **predict student sco
 ✅ Data Cleaning & Preprocessing  
 📈 Data Visualization  
 🧠 Linear Regression Model Training  
-📊 Evaluation using MSE, RMSE, and R²  
+📊 Evaluation using R²  
 ☁️ Integrated with Google Cloud for model experimentation  
